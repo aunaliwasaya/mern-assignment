@@ -1,2 +1,2 @@
 console.log("Mern Assignment")
-console.log("wasaya made changes again");
+console.log("wasaya s made changes again");
